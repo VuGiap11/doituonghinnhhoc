@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\doituonghinhhoc\bin\Debug\doituonghinhhoc.exe.config
+C:\Users\tuan\Desktop\doituonghinhhoc\bin\Debug\doituonghinhhoc.exe
+C:\Users\tuan\Desktop\doituonghinhhoc\bin\Debug\doituonghinhhoc.pdb
+C:\Users\tuan\Desktop\doituonghinhhoc\obj\Debug\doituonghinhhoc.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\doituonghinhhoc\obj\Debug\doituonghinhhoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\doituonghinhhoc\obj\Debug\doituonghinhhoc.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\doituonghinhhoc\obj\Debug\doituonghinhhoc.exe
+C:\Users\tuan\Desktop\doituonghinhhoc\obj\Debug\doituonghinhhoc.pdb
